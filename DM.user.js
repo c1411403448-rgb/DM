@@ -10,6 +10,7 @@
 // ==/UserScript==
 
 (function() {
+    //测试测试测试
     'use strict';
     const currentUrl = window.location.href;
     // 长链接标识：包含详情页路径和id参数
@@ -54,4 +55,5 @@
     }
 
 })();
+
 
