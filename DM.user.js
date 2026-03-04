@@ -3,14 +3,13 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://haohuo.jinritemai.com/*
 // @grant       none
-// @version     1.2
+// @version     1.0
 // @author      LCJ
 // @icon        https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png
 // @downloadURL  https://c1411403448-rgb.github.io/DM/DM.user.js
 // ==/UserScript==
 
 (function() {
-    //测试测试测试
     'use strict';
     const currentUrl = window.location.href;
     // 长链接标识：包含详情页路径和id参数
@@ -55,6 +54,7 @@
     }
 
 })();
+
 
 
 
