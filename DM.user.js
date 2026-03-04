@@ -6,6 +6,7 @@
 // @version     1.0
 // @author      LCJ
 // @icon        https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png
+// @downloadURL  https://c1411403448-rgb.github.io/DM/DM.user.js
 // ==/UserScript==
 
 (function() {
@@ -51,4 +52,5 @@
     else {
         console.log('当前链接不匹配短链/长链规则，无需处理');
     }
+
 })();
