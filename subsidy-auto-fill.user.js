@@ -5,6 +5,7 @@
 // @grant        none
 // @version      1.0
 // @description  看着能不能跑。
+// @downloadURL  https://c1411403448-rgb.github.io/DM/subsidy-auto-fill.user.js
 // ==/UserScript==
 
 (function() {
@@ -581,4 +582,5 @@
 
     // 启动脚本
     initObserver();
+
 })();
