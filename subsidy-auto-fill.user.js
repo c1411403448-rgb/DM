@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         外网平台补贴信息填充
+// @namespace   Violentmonkey Scripts
 // @author       LCJ
 // @match        https://*.pos-admin.vip.vip.com/*
 // @grant        none
@@ -584,3 +585,4 @@
     initObserver();
 
 })();
+
